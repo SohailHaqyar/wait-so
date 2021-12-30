@@ -1,1 +1,1 @@
-web: bin/10-hours
+web: bin/wait-so
